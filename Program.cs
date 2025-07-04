@@ -9,6 +9,7 @@ class Program
 
         produkter.Add(new Produkt("USB-laddare", 99));
         produkter.Add(new Bok("C# på riktigt", 249, "Anna Svensson"));
+        produkter.Add(new Blingfaktor("C# på riktigt", 249, "Snygghet"));
 
         foreach (Produkt p in produkter)
         {
