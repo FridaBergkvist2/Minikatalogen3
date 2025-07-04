@@ -1,0 +1,5 @@
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.AssemblyInfoInputs.cache
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.AssemblyInfo.cs
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.csproj.CoreCompileInputs.cache
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.sourcelink.json
