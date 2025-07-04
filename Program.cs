@@ -8,7 +8,7 @@ class Program
         List<Produkt> produkter = new List<Produkt>();
 
         produkter.Add(new Produkt("USB-laddare", 99));
-        produkter.Add(new Bok("C# på riktigt", 249, "Anna Svensson"));
+        produkter.Add(new Bok("C# på riktigt", 249, "Anna Svensson", "Grönskimrande"));
 produkter.Add(new Bok("Gulddiamant", 289, "Gunter Strumpa", "Glittrig"));
 
         foreach (Produkt p in produkter)
