@@ -3,3 +3,13 @@ C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\
 C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.AssemblyInfo.cs
 C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.csproj.CoreCompileInputs.cache
 C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.sourcelink.json
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\bin\Debug\net8.0\Minikatalogen3.exe
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\bin\Debug\net8.0\Minikatalogen3.deps.json
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\bin\Debug\net8.0\Minikatalogen3.runtimeconfig.json
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\bin\Debug\net8.0\Minikatalogen3.dll
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\bin\Debug\net8.0\Minikatalogen3.pdb
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.dll
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\refint\Minikatalogen3.dll
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.pdb
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\Minikatalogen3.genruntimeconfig.cache
+C:\Users\Frida\OneDrive\Dokument\GitHub\Minikatalogen3\Minikatalogen3\obj\Debug\net8.0\ref\Minikatalogen3.dll

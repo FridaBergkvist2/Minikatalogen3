@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Minikatalogen3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a72e93a2c6e04363cfd8d860804791c70b4b29d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7cb296d306a8ad04d43a2fb4977ad56e77acfa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Minikatalogen3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Minikatalogen3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
