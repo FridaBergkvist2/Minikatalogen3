@@ -1,7 +1,27 @@
 public class Produkt
 {
-    public string Namn { get; set; }
-    public double Pris { get; set; }
+    private string namn;
+    private double pris;
+
+    public string Namn
+    {
+        get { return namn; }
+        set
+        {
+            if (!string.IsNullOrWhiteSpace(value))
+                namn = value;
+        }
+    }
+
+    public double Pris
+    {
+        get { return pris; }
+        set
+        {
+            if (value >= 0)
+                pris = value;
+        }
+    }
 
     public Produkt(string namn, double pris)
     {
