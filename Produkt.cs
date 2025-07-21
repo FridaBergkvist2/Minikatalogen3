@@ -1,7 +1,14 @@
 public class Produkt
 {
-    private string namn;
-    private double pris;
+    public string namn;
+    public double pris;
+
+    public Produkt(string namn, double pris)
+    {
+        Namn = namn;
+        Pris = pris;
+    }
+
 
     public string Namn
     {
@@ -23,14 +30,12 @@ public class Produkt
         }
     }
 
-    public Produkt(string namn, double pris)
-    {
-        Namn = namn;
-        Pris = pris;
-    }
-
     public virtual void VisaInfo()
     {
         Console.WriteLine($"{Namn} - {Pris} kr");
+    }
+    public override string ToString()
+    {
+        return $"{Namn} - {Pris} kr";
     }
 }
